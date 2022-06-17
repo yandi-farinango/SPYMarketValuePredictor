@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+TA-Lib==0.4.21
+tensorflow-addons
+tensorflow
+yfinance
+tqdm
